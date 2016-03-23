@@ -1,0 +1,2 @@
+http://192.168.6.10:8080/JENKINS_URL/job/Job1/abcedfghijklmnopqrst
+http://192.168.6.10:8080/job/Job1/build?token=abcedfghijklmnopqrst
